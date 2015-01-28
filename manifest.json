@@ -1,10 +1,10 @@
 {
   "name": "Twitch Audio Optione Enabler",
   "version": "1.0",
-  "description": "I can't has cheezburger!",
+  "description": "Enables audio only option for twitch streams",
   "permissions": ["webRequest", "webRequestBlocking",
-  	"*://usher.twitch.tv/*"
-  	],
+    "*://usher.twitch.tv/*"
+    ],
 
   "background": {
     "scripts": [ "background.js"]
