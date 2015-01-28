@@ -1,0 +1,14 @@
+{
+  "name": "Twitch Audio Optione Enabler",
+  "version": "1.0",
+  "description": "I can't has cheezburger!",
+  "permissions": ["webRequest", "webRequestBlocking",
+  	"*://usher.twitch.tv/*"
+  	],
+
+  "background": {
+    "scripts": [ "background.js"]
+  },
+
+  "manifest_version": 2
+}
