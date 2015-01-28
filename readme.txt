@@ -2,8 +2,8 @@ Adds an "Audio Only" option for twitch streams. Useful for background music and 
 
 Install guide:
 
-download Zip
-unpack
+click "download Zip" on the right here ->
+unpack the downloaded zip
  
 in chrome:
 	go to chrome->extensions
